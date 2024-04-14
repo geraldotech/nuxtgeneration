@@ -1,0 +1,11 @@
+*{
+  color-scheme: dark;
+}
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu ul {
+  display: flex;
+  gap: 2rem;
+}
