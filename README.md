@@ -1,5 +1,11 @@
 # Nuxt 3 Minimal Starter
 
+
+# Good links
+
+-  Course  https://www.youtube.com/watch?v=o4SkcTupZBo
+- cache and nice videos https://www.youtube.com/watch?v=aQPR0xn-MMk
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup

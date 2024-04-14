@@ -18,6 +18,9 @@
           <li>
             <NuxtLink to="/events">Events</NuxtLink>
           </li>
+          <li>
+            <NuxtLink to="/posts">Posts</NuxtLink>
+          </li>
         </ul>
       </header>
 
