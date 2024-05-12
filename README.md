@@ -8,6 +8,13 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+
+nuxt links:
+
+- https://nuxt.com/docs/api/commands/generate
+- https://nuxt.com/docs/getting-started/deployment#crawl-based-pre-rendering
+- https://nuxt.com/docs/guide/concepts/rendering
+
 ## Setup
 
 Make sure to install the dependencies:
